@@ -1,7 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
-// import { DragDropContext, Droppable, Draggable } from "@hello-pangea/dnd";
 import {useUser} from "@auth0/nextjs-auth0/client"
 import { useState } from "react";
 
